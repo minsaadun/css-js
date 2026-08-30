@@ -1,0 +1,6 @@
+{
+  "name": "CSS & JS LAB",
+  "description": "Interactive Learning Web Application for STM21673 Web Development (Topic 3.0 CSS & JavaScript) - Kolej Komuniti Malaysia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
